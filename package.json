@@ -1,5 +1,5 @@
 {
-  "name": "project-credit-card-validator-sancla",
+  "name": "project-credit-card-validator-clauSan",
   "version": "1.0.0",
   "description": "* **Colaboradoras** _Claudia Trujillo, Sandra Pantoja_\r * **Curso:** _JS Deep Dive: Crea tu propia librería usando JavaScript_\r * **Unidad:** _Sprint 4_",
   "main": "credit-card/dist/mainFunctions.js",
